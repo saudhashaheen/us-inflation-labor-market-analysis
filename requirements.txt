@@ -1,0 +1,6 @@
+fredapi
+pandas
+matplotlib
+seaborn
+numpy
+jupyter
