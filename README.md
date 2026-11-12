@@ -43,6 +43,13 @@ Never commit API keys or `.env` files to Git.
 - `project_presentation.pdf` — summary presentation of the analysis and findings.
 - `requirements.txt` — Python dependencies.
 
+## Authors
+
+- `Saudha Shaheen
+- `Muhammad Abdullah 
+- `Myra Rafiq
+  
+
 ## Acknowledgment
 
 Data source: Federal Reserve Bank of St. Louis (FRED).
